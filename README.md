@@ -4,6 +4,7 @@
 - [ ] Create a database and query it using `psql` terminal
 - [ ] Perform `BREAD` actions on database from command line
 - [ ] Perform `BREAD` actions on database from the browser
+- [ ] Protecting secrets using Environment Variables
 
 
 
